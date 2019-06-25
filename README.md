@@ -1,2 +1,2 @@
 # DataStructure
-Learn data structure
+Learn data structure using C.
